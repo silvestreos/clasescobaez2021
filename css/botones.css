@@ -1,0 +1,39 @@
+#boton_primero{
+    padding-bottom: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 0.9em;
+    font-size: 25px;
+    text-shadow: black 3px 5px 2px ;
+    box-shadow: rgba(8, 2, 14, 0.945) 5px 6px 4px;
+   
+          
+
+}
+
+#boton_primero:hover{
+    background-color: red;
+    color: greenyellow;
+    text-shadow: black 5px 8px 4px ;
+    font-size: 27px;
+    box-shadow: rgba(8, 2, 14, 0.945) 8px 9px 6px;
+
+}
+
+#boton_visitado{
+
+    padding-bottom: 10px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 0.9em;
+    font-size: 25px;
+    text-shadow: black 3px 5px 2px ;
+    box-shadow: rgba(8, 2, 14, 0.945) 5px 6px 4px; 
+}
+
+#boton_visitado:hover{
+    background-image: url("fondo.png");
+    color: green;
+    box-shadow: rgba(8, 2, 14, 0.945) 8px 9px 6px;
+
+}
